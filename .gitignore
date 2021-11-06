@@ -1,0 +1,4 @@
+*.pyc
+*.log
+model_checkpoints
+model_checkpoints/**
