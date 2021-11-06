@@ -1,0 +1,7 @@
+{
+   "count_num_classes": true,
+   "num_classes_location": 507,
+   "num_classes_class": 4,
+   "num_filters": [12,24,48],
+   "wd": 0
+}

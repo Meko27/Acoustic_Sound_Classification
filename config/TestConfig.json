@@ -1,0 +1,8 @@
+{
+    "path_test_data": "data/test",
+    "path_model": "model_checkpoints/localization",
+    "path_model_class": "model_checkpoints/classification",
+    "use_training_data": false,
+    "savepath_dataframe": "evaluation",
+    "confidence_threshold": 0.021
+}

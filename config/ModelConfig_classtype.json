@@ -1,0 +1,7 @@
+{
+    "num_classes_old": 490,
+    "num_classes": 4,
+    "num_classes_type": 4,
+    "num_filters": [12,24,48],
+    "wd": 0
+ }

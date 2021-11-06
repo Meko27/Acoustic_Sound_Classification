@@ -1,0 +1,18 @@
+{
+    "num_audio_channel": 20,
+    "duration": 0.125,
+    "sampling_rate": 48000,
+    "num_freq_bin": 128,
+    "hop_length": 32,
+    "num_fft": 2048,
+    "normalize": false,
+    "mixup_alpha": 0.4,
+    "crop_percentage": 0.1,
+    "source_dir_training": "data/features",
+    "source_dir_local": "data/raw",
+    "source_dir_augmented": "data/augmented",
+    "source_dir_further_data": "data/further_data",
+    "valid_extension": "npy",
+    "red_channels": [2,5,9,14,15,19],
+    "augmented_data_folders": ["time_shift", "pitch_shift", "add_random_noise"]
+}
