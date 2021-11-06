@@ -1,7 +1,7 @@
 
 #Run commands before training on Nvidia-dgx:
-#export LD_LIBRARY_PATH=/home/pandadgx/anaconda3/pkgs/cudatoolkit-11.0.221-h6bb024c_0/lib
-#export LD_LIBRARY_PATH=/home/pandadgx/Downloads/cuda/lib64:$LD_LIBRARY_PATH
+#export LD_LIBRARY_PATH=/home/anaconda3/pkgs/cudatoolkit-11.0.221-h6bb024c_0/lib
+#export LD_LIBRARY_PATH=/home//Downloads/cuda/lib64:$LD_LIBRARY_PATH
 
 import matplotlib.pyplot as plt
 import numpy as np
